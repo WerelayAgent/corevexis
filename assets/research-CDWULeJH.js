@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./middleware-dX2TOHv-.js";var r=t()(e((e,t)=>({runs:[],add:n=>e({runs:[n,...t().runs].slice(0,50)}),patch:(n,r)=>e({runs:t().runs.map(e=>e.id===n?{...e,...r}:e)}),remove:n=>e({runs:t().runs.filter(e=>e.id!==n)}),clear:()=>e({runs:[]})}),{name:`chainvexus.research-history`,storage:n(()=>localStorage),version:1}));export{r as t};

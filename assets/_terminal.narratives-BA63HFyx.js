@@ -1,0 +1,1 @@
+import{a as e}from"./narratives-CL9-V7eJ.js";var t=e;export{t as component};
